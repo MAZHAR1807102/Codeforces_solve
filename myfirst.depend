@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1514140574 source:f:\codes\myfirst\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1555113692 source:f:\codes\myfirst\strcopy.c
+	<stdio.h>
+	<string.h>
+
